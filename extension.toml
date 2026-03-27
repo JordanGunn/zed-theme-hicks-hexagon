@@ -1,0 +1,13 @@
+id = "hicks-hexagon-theme"
+name = "Hick's Hexagon"
+version = "0.1.0"
+schema_version = 1
+authors = ["Jordan Godau <JordanGunn92@gmail.com"]
+description = "A warm, earth-toned dark theme inspired by the iconic Hick's Hexagon carpet pattern from The Shining. Three variants: Hearth, Ember, and Ash."
+repository = "https://github.com/JordanGunn/zed-theme-hicks-hexagon"
+
+themes = [
+  "themes/hearth.json",
+  "themes/ember.json",
+  "themes/ash.json"
+]
