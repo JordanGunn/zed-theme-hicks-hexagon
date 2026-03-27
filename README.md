@@ -6,11 +6,14 @@ No cool tones. No neon. No purple. Just burnt orange, olive, mustard, rust, and 
 
 ## Variants
 
-**Hearth** -- The original. Balanced warmth, the one that started it all.
+### Hearth
+![Hearth](assets/hearth.png)
 
-**Ember** -- Richer. Deeper espresso background, more saturated accents. For when Hearth feels a hair too quiet.
+### Ember
+![Ember](assets/ember.png)
 
-**Ash** -- Quieter. Pulled-back saturation, more stone than wood. For late afternoons where you're not thinking about colors at all.
+### Ash
+![Ash](assets/ash.png)
 
 ## Installation
 
